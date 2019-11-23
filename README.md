@@ -1,5 +1,5 @@
 # VIP_CUP_2017_Team_Neurons-Traffic_Sign_Detection_Under_Challenging_Condition
-This respiratory contains the codes and submission package of the Team Neurons, the champion team of IEEE Video and Image Processing Cup 2017 organized by Olives - Omni Lab for Intelligent Visual Engineering and Science from Georgia Tech. 
+This repository contains the codes and submission package of the Team Neurons, the champion team of IEEE Video and Image Processing Cup 2017 organized by Olives - Omni Lab for Intelligent Visual Engineering and Science from Georgia Tech. 
 
 ![alt text](https://github.com/udday2014/VIP_CUP_2017_Team_Neurons-Traffic_Sign_Detection_Under_Challenging_Condition/blob/master/winningteam_neurons.jpg)
 
